@@ -1,0 +1,35 @@
+#!/bin/bash
+
+oardel 2925268
+oardel 2925269
+oardel 2925270
+oardel 2925271
+oardel 2925272
+oardel 2925273
+oardel 2925274
+oardel 2925275
+oardel 2925276
+oardel 2925277
+oardel 2925278
+oardel 2925279
+oardel 2925280
+oardel 2925281
+oardel 2925282
+oardel 2925283
+oardel 2925284
+oardel 2925285
+oardel 2925286
+oardel 2925287
+oardel 2925288
+oardel 2925289
+oardel 2925290
+oardel 2925291
+oardel 2925292
+oardel 2925293
+oardel 2925294
+oardel 2925295
+oardel 2925296
+oardel 2925297
+oardel 2925298
+oardel 2925299
+oardel 2925300

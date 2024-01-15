@@ -1,0 +1,38 @@
+{
+   "miscellaneous properties": {
+        "snr_min": 10,
+        "snr_max": 20,
+        "beta_range": [0.9,1.0],
+        "early_reverb_len": 800,
+        "n_mics": 1
+    },
+    "Room geometry": {
+        "len_min": 10,
+        "len_max": 20,
+        "wid_min": 10,
+        "wid_max": 20,
+        "hei_min": 5,
+	"hei_max":5
+    },
+    "Room acoustics": {
+        "beta_min": 1.0,
+        "beta_max": 1.0
+    },
+    "Sensor positions": {
+        "d": 1.5,
+        "d_wal":0.5,
+        "d_mic": 0.001,
+        "z_cst": 0.01,
+        "d_rnd_mics": 1
+    },
+    "Source properties": {
+        "d_sou": 0.3,
+        "d_sou_wal": 0.4
+    },
+    "Source signal properties": {
+        "dur_min_test": 1,
+        "dur_min_train": 50,
+        "dur_max": 10,
+        "max_order": 20
+    }
+}

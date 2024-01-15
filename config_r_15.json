@@ -1,0 +1,14 @@
+{
+        "noise_type": "rain",
+	"input_file":"./filelists/test_voxceleb1.txt",
+        "output_path": "./test_voxceleb1_r15",
+        "case": "train",
+        "rt": 1.0,
+        "snr": 15,
+	"step_size":5000,
+	"rir_start":1,
+	"rir_end":5000
+}
+
+
+

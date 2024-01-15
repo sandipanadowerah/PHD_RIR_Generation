@@ -1,0 +1,14 @@
+{
+        "noise_type": "rain",
+	"input_file":"./filelists/rsr2.txt",
+        "output_path": "./test_rsr2_r10",
+        "case": "train",
+        "rt": 1.0,
+        "snr": 10,
+	"step_size":5000,
+	"rir_start":1,
+	"rir_end":55000
+}
+
+
+
