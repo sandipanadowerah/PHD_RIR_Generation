@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Dowerah"
+  given-names: "Sandipana"
+  orcid: "https://orcid.org/0000-0002-1559-4505"
+- family-names: "Serizel"
+  given-names: "Romain"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "PHD_RIR_Generation"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-01-19
+url: "https://github.com/sandipanadowerah/PHD_RIR_Generation"
+paper link: "https://arxiv.org/abs/2210.08834"
+@misc{dowerah2022leverage,
+      title={How to Leverage DNN-based speech enhancement for multi-channel speaker verification?}, 
+      author={Sandipana Dowerah and Romain Serizel and Denis Jouvet and Mohammad Mohammadamini and Driss Matrouf},
+      year={2022},
+      eprint={2210.08834},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD}
+}
