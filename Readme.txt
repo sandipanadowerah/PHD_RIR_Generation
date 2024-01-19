@@ -1,3 +1,7 @@
+To cite, refer to "https://arxiv.org/abs/2210.08834"
+"How to Leverage DNN-based speech enhancement for multi-channel speaker verification?" 
+
+
 Step1. Install the necessary packages to run the RIR generation script, this script will do the room impulse response simulation and generate rir information and reverberated speech signals. 
 
 Installation packages:
